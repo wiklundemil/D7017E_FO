@@ -11,10 +11,9 @@ I stora drag gick även Future Ordering igenom vilka typer av kunder de har vad 
 
 ## [Vecka 2] Andra veckan med Future Ordering: Planering och förberedelser
 
-Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya utmaningar gällande projektet. Det planerade projektet har visat sig kosta för mycket för att hålla sig inom ramen av projekts omfattning. Därför har istället möjligheten till att arbeta med ett nydefinierat projekt öppnat upp sig.
+Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya utmaningar gällande val av projek. Den planerade uppgiften har visat sig kosta för mycket för att hålla sig inom ramen av projekts omfattning. Därför har istället möjligheten till att arbeta med ett nydefinierat projekt öppnat upp sig.
 
-Denna veckan har därför gått till inplanerade möten med företaget där dels det nya projektet presenterats men även en genomgång av och inbjudan till eventuella verktyg samt system gjorts. Den nya uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
-
+Denna veckan har därför gått till inplanerade möten med företaget där dels det nya projektet presenterats men även en genomgång till eventuella verktyg samt system gjorts. Den nya uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
 
 ## [Vecka 3] Verktyg och fördelning av arbete. 
 Veckan i stort har bestått utav att få tillgång till yterliga delar av de verktyg som gruppen är tänkt att arbeta med, samt har grupper vidare planerat uppgiftens lättare och tyngre delar i syfte att kunna fördela arbetet på ett effektivt sätt. 
