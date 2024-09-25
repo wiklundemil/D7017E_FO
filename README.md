@@ -10,7 +10,10 @@ Vi är en grupp studenter från Luleå Tekniska Universitet som läser en kurs d
 
 ## [Vecka 2] Andra veckan med Future Ordering: Planering och förberedelser
 
-Gruppen har nu avslutat den första veckan, där uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
+Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya utmaningar gällande projektet. Det palnerade projektet har visat sig kosta för mycket för att hålla sig inom ramen av projekts omfattning.
+
+
+uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
 
 Hittills har arbetet fokuserat på att utforska och planera hur gruppen ska genomföra uppgiften. Gruppen har undersökt vilka tekniska verktyg som kan användas för att bygga tjänsten och samtidigt diskuterat de juridiska och säkerhetsmässiga aspekter som kan påverka projektet.
 
