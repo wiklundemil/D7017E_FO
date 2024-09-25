@@ -15,7 +15,7 @@ Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya ut
 
 Denna veckan har därför gått till inplanerade möten med företaget där dels det nya projektet presenterats men även en genomgång till eventuella verktyg samt system gjorts. Den nya uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
 
-## [Vecka 3] Verktyg och fördelning av arbete. 
+## [Vecka 3] Verktyg och fördelning av arbete 
 Veckan i stort har bestått utav att få tillgång till yterliga delar av de verktyg som gruppen är tänkt att arbeta med, samt har grupper vidare planerat uppgiftens lättare och tyngre delar i syfte att kunna fördela arbetet på ett effektivt sätt. 
 
 Vid detta skede har gruppens arbetet omfattat ett fokus kring utforskning och planera av hur uppgiften ska genomföra och vilka möjliga väger som finns att gå. Gruppen har undersökt vilka tekniska verktyg som kan användas för att bygga tjänsten och samtidigt diskuterat de juridiska och säkerhetsmässiga aspekter som kan påverka projektet.
