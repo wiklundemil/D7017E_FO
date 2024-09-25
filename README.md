@@ -2,16 +2,16 @@
 A project where a group of students work together with a company where the goal is to build a service.
 
 
-## [Vecka 1] Första veckan med Future Ordering: Planering och förberedelser
-
+## [Vecka 1]
 Vi är en grupp studenter från Luleå Tekniska Universitet som läser en kurs där målet är att arbeta med ett tilldelat projekt från ett företag. Företaget som gruppen arbetar med under kursens gång är Future Ordering.
+
+Den första veckan bestodd utav att lära känna företaget och få lite ansikten på folk samt se hur kontoret såg ut. Sedan under veckan fick gruppen tillgång till konton till miljöerna gruppen är tänkt att arbeta i. 
 
 
 
 ## [Vecka 2] Andra veckan med Future Ordering: Planering och förberedelser
 
 Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya utmaningar gällande projektet. Det palnerade projektet har visat sig kosta för mycket för att hålla sig inom ramen av projekts omfattning.
-
 
 uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
 
