@@ -15,8 +15,10 @@ Gruppen har nu avslutat den andra veckan, där Future Ordering stött på nya ut
 
 Denna veckan har därför gått till inplanerade möten med företaget där dels det nya projektet presenterats men även en genomgång av och inbjudan till eventuella verktyg samt system gjorts. Den nya uppgiften är att utveckla en tjänst som gör det möjligt för användare att beställa mat direkt från sina bilar på ett enkelt sätt.
 
-Hittills har arbetet fokuserat på att utforska och planera hur gruppen ska genomföra uppgiften. Gruppen har undersökt vilka tekniska verktyg som kan användas för att bygga tjänsten och samtidigt diskuterat de juridiska och säkerhetsmässiga aspekter som kan påverka projektet.
+
+## [Vecka 3]
+
+Vid detta skede har gruppens arbetet omfattat ett fokus kring utforskning och planera av hur uppgiften ska genomföra och vilka möjliga väger som finns att gå. Gruppen har undersökt vilka tekniska verktyg som kan användas för att bygga tjänsten och samtidigt diskuterat de juridiska och säkerhetsmässiga aspekter som kan påverka projektet.
 
 Gruppen kommer också att fortsätta utvärdera vilka verktyg som är mest lämpliga för att förverkliga idén. Även om gruppen fortfarande är i ett tidigt skede, känns projektet mycket lovande. Som en grupp känner vi att vi har en tydlig riktning framåt och är engagerade i att lösa de utmaningar vi kommer att stöta på under de kommande veckorna.
 
-## [Vecka 3]  
