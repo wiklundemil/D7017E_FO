@@ -6,7 +6,7 @@ A project where a group of students work together with a company where the goal 
 Vi är en grupp studenter från Luleå Tekniska Universitet som läser en kurs där målet är att arbeta med ett tilldelat projekt från ett företag. Företaget som gruppen arbetar med under kursens gång är Future Ordering.
 
 Den första veckan bestodd utav att lära känna företaget och få lite ansikten på folk samt se hur kontoret såg ut. Sedan under veckan fick gruppen tillgång till konton till miljöerna gruppen är tänkt att arbeta i. 
-
+I stora drag gick även Future Ordering igenom vilka typer av kunder de har vad en kund kan tänka sig söka och hur Future Ordering skulle kunna möjliggöra detta.
 
 
 ## [Vecka 2] Andra veckan med Future Ordering: Planering och förberedelser
